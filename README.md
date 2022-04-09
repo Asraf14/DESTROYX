@@ -66,7 +66,7 @@ Simply copy these commands and paste in Termux:
 apt-get upgrade -y
 pkg upgrade -y
 pkg install python wget -y
-wget https://raw.githubusercontent.com/CRiMiNaL786/DESTROYX/main/telesetup.py
+wget https://raw.githubusercontent.com/Asraf14/DESTROYX/main/telesetup.py
 pip install telethon
 python telesetup.py
 ```
